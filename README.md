@@ -138,6 +138,6 @@ that loads it. A contract version a host defines for its plugin structs (coraine
 
 ## Dependencies
 
-- [`corArgs`](https://github.com/SEAMWARE/corArgs) — CLI argument handling (used by `corPluginArgUpdate`)
-- [`corTree`](https://github.com/SEAMWARE/corTree) — `CorNode.h` only, for `corNodeLayout` (the layout check); nothing linked
+- [`corArgs`](https://github.com/SEAMWARE-cor/corArgs) — CLI argument handling (used by `corPluginArgUpdate`)
+- [`corTree`](https://github.com/SEAMWARE-cor/corTree) — `CorNode.h` only, for `corNodeLayout` (the layout check); nothing linked
 - `dl` — the dynamic-loader (`dlopen`/`dlsym`/`dladdr`/`dlclose`)
